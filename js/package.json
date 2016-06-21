@@ -1,0 +1,15 @@
+{
+  "name": "js_test_template",
+  "version": "1.0.0",
+  "description": "template for a quick mocha/chai js environment",
+  "main": "assert.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^1.16.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
